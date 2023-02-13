@@ -8,3 +8,4 @@ Test Repository for assignment 1
     - part of speech tagging (POS)
 
 use the new_input text file for the program
+Added a new line of text to show merging two branches.
