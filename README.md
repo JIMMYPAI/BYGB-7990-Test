@@ -6,3 +6,5 @@ Test Repository for assignment 1
     - stemming
    
     - part of speech tagging (POS)
+
+use the new_input text file for the program
